@@ -1,0 +1,39 @@
+*{
+    box-sizing:border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#Logo{
+    width: 175px;
+    height: 175px;
+}
+
+header {
+    display: flex;                   
+    justify-content: space-between;  
+    align-items: center;             
+    flex-wrap: wrap;                 
+    gap: 1rem;
+    padding: 1rem 2rem;
+}
+
+.Navigatie {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 1.3rem;
+    margin-top: -45px;                  
+}
+
+
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333333;
+    margin: 0;
+
+}
+
+
